@@ -1,0 +1,16 @@
+{
+  "name": "cursobasico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "account.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "basicoPoo",
+    "curso"
+  ],
+  "author": "Efrain Andrade <Zyzz_448@hotmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
